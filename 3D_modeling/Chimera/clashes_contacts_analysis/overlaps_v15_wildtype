@@ -1,0 +1,23 @@
+Allowed overlap: -0.4
+H-bond overlap reduction: 0
+Ignore contacts between atoms separated by 4 bonds or less
+Detect intra-residue contacts: False
+Detect intra-molecule contacts: True
+
+15 contacts
+atom1  atom2  overlap  distance
+LEU 302.A N    HOH 770.A O    0.309  2.791
+LEU 302.A N    PRO 300.A O    0.020  3.040
+LEU 302.A CB   HOH 770.A O    -0.031  3.371
+LEU 302.A O    MET 306.A N    -0.087  3.147
+LEU 302.A CG   HOH 770.A O    -0.155  3.495
+LEU 302.A O    MET 306.A CG   -0.155  3.455
+LEU 302.A CD2  LEU 472.A CD2  -0.218  3.978
+LEU 302.A CD2  PHE 533.A CZ   -0.228  3.868
+LEU 302.A CA   HOH 770.A O    -0.244  3.584
+LEU 302.A CD2  PHE 533.A CE2  -0.271  3.911
+LEU 302.A CD2  PHE 533.A CE1  -0.317  3.957
+LEU 302.A CB   PHE 533.A CD1  -0.319  3.959
+LEU 302.A O    MET 306.A CE   -0.339  3.639
+LEU 302.A CD1  GLY 276.A CA   -0.359  4.119
+LEU 302.A O    HIS 304.A N    -0.378  3.438

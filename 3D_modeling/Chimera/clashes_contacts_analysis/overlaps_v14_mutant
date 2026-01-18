@@ -1,0 +1,26 @@
+Allowed overlap: -0.4
+H-bond overlap reduction: 0
+Ignore contacts between atoms separated by 4 bonds or less
+Detect intra-residue contacts: False
+Detect intra-molecule contacts: True
+
+18 contacts
+atom1  atom2  overlap  distance
+PRO 302.A O    MET 306.A H    0.431  2.049
+PRO 302.A O    MET 306.A N    0.117  2.988
+PRO 302.A O    MET 306.A HG3  0.055  2.425
+PRO 302.A N    PRO 300.A O    -0.017  3.122
+PRO 302.A HD3  GLU 301.A CB   -0.082  2.782
+PRO 302.A CD   PRO 300.A C    -0.096  3.496
+PRO 302.A HD3  GLU 301.A HB3  -0.110  2.110
+PRO 302.A HD3  GLY 277.A HA3  -0.148  2.148
+PRO 302.A HD3  GLY 277.A CA   -0.151  2.851
+PRO 302.A O    MET 306.A CG   -0.192  3.372
+PRO 302.A HD3  GLU 301.A N    -0.215  2.840
+PRO 302.A HB3  PHE 533.A CD1  -0.306  3.006
+PRO 302.A HD2  PRO 300.A C    -0.332  3.032
+PRO 302.A CD   GLU 301.A HB3  -0.338  3.038
+PRO 302.A CD   PRO 300.A O    -0.341  3.521
+PRO 302.A CD   TYR 303.A H    -0.347  3.047
+PRO 302.A O    LYS 305.A N    -0.366  3.471
+PRO 302.A HA   PHE 533.A CE1  -0.377  3.077

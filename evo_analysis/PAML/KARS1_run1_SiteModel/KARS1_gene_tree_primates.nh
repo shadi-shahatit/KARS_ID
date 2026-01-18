@@ -1,0 +1,40 @@
+(
+  (ENSCSAP00000000036_Csab/1-1875, ENSOGAP00000005278_Ogar/1-1875),
+  (
+    (ENSMNEP00000040013_Mnem/1-1854, ENSMNEP00000024561_Mnem/1-1560),
+    (
+      (ENSCATP00000029839_Caty/1-1950, ENSNLEP00000043794_Nleu/1-1887),
+      (
+        (ENSPCOP00000000989_Pcoq/1-1704, ENSANAP00000025497_Anan/1-1875),
+        (
+          (ENSPSMP00000016790_Psim/1-1872, ENSANAP00000027854_Anan/1-1740),
+          (
+            (ENSSBOP00000005066_Sbbo/1-1875, ENSRBIP00000012360_Rbie/1-1950),
+            (
+              (ENSPTRP00000069187_Ptro/1-1887, ENSGGOP00000038321_Ggor/1-1887),
+              (
+                (ENSMICP00000010924_Mmur/1-1872, ENSRROP00000035934_Rrox/1-1875),
+                (
+                  ENSPPAP00000026148_Ppan/1-1887, ENSMLEP00000021489_Mleu/1-1875
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+  ),
+  (
+    (ENSTSYP00000021886_Csyr/1-1866, ENSMMUP00000076114_Mmul/1-1950),
+    (
+      (ENSMFAP00000042505_Mfas/1-1950, ENSPPYP00000008540_Pabe/1-1875),
+      (
+        (ENSPANP00000016709_Panu/1-1950, ENSCJAP00000026168_Cjac/1-1875),
+        (
+          (ENSCCAP00000032620_Cimi/1-1875, ENSCCAP00000025267_Cimi/1-1644),
+          ENSP00000303043_Hsap/1-1791
+        )
+      )
+    )
+  )
+);
