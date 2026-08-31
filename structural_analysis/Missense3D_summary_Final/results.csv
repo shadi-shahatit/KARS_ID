@@ -1,0 +1,2 @@
+Uniprot_ID,PDB_ID,Chain,PosInUni,PosInPDB,WT,MUT,ResType,RSA_WT,RSA_MUT,CavitySize_WT,CavitySize_MUT,ClashScore_WT,ClashScore_MUT,Hydrophobiscity_WT,Hydrophobiscity_MUT,Charge_WT,Charge_MUT,SS_WT,SS_MUT,PhiPsi_WT,PhiPsi_MUT,HBond_repackOK,SBridge_repackOK,DSulph_repackOK,HBond_WT,SBridge_WT,DSulph_WT,HBond_MUT,SBridge_MUT,DSulph_MUT
+Q15046,AF-Q15046-F1-model_v6,A,302,302,LEU,PRO,Buried,0.055,0.110,1463.19,1495.16,4.33,12.55,hydrophobic,neutral,no_charge,no_charge,H,H,Favored,Favored,Y,Y,Y,,,,,,
