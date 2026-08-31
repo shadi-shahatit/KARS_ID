@@ -1,0 +1,19 @@
+Welcome to Ram Plot
+===================
+log
+Job Id:RamPlot6a941c7cb6307
+User Inputs 
+Input Option: optionmmCIFFile
+Plot Resolutions: 600
+Plot File Type: jpeg
+File Upload Successfully foldkarsnp0011235611wildtype29082026model0.cif
+ Python Script Start running for Torsion Angle Calculation
+ Python Script Start running for Torsion Angle Calculation
+: foldkarsnp0011235611wildtype29082026model0.cif converted to Jobs/RamPlot6a941c7cb6307/PDB/foldkarsnp0011235611wildtype29082026model0.pdb
+InSIde TorsionAngleCalculation 
+ RamPlot6a941c7cb6307
+[MapType2DStd,MapType3DStd,MapType2DAll,MapType3DAll]foldkarsnp0011235611wildtype29082026model0.pdb
+Calculate Torsion angles for Chain ID :A
+Error : Unable to calculate  torsion angles foldkarsnp0011235611wildtype29082026model0.pdb ChainA Residue 1 MET PHI:None PSI:100.38321183620364 Omega:None
+Error : Unable to calculate  torsion angles foldkarsnp0011235611wildtype29082026model0.pdb ChainA Residue 625 VAL PHI:-157.12268996111194 PSI:None Omega:87.47202523522081
+Torsion Angles calculation complited for foldkarsnp0011235611wildtype29082026model0.pdb

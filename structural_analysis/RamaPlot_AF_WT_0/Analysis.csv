@@ -1,0 +1,57 @@
+Ram Plot Analysis
+JobID,RamPlot6a941c7cb6307,2026-08-30 17:35:19.893126
+Total Residue,623
+Ramachandran plot (Standard) statistics
+Favoured: ,593,(95.185%)
+Allowed: ,18,(2.889%)
+Disallowed: ,12,(1.926%)
+Disallowed Residues
+SN.,PDB ID,Chain,Residue,Residue No,PHI,PSI
+1. ,foldkarsnp0011235611wildtype29082026model0,A,LEU,2,56.92,127.16
+2. ,foldkarsnp0011235611wildtype29082026model0,A,GLN,4,-39.39,153.81
+3. ,foldkarsnp0011235611wildtype29082026model0,A,ALA,6,98.28,117.27
+4. ,foldkarsnp0011235611wildtype29082026model0,A,GLU,21,174.48,84.28
+5. ,foldkarsnp0011235611wildtype29082026model0,A,HIS,24,88.03,93.58
+6. ,foldkarsnp0011235611wildtype29082026model0,A,GLN,31,73.79,119.14
+7. ,foldkarsnp0011235611wildtype29082026model0,A,THR,88,166.53,-2.2
+8. ,foldkarsnp0011235611wildtype29082026model0,A,LYS,607,-57.2,96.88
+9. ,foldkarsnp0011235611wildtype29082026model0,A,ASN,609,-63.27,85.14
+10. ,foldkarsnp0011235611wildtype29082026model0,A,THR,612,-55.83,94.13
+11. ,foldkarsnp0011235611wildtype29082026model0,A,ASP,614,-58.96,95.16
+12. ,foldkarsnp0011235611wildtype29082026model0,A,SER,624,38.01,119.36
+Ramachandran plot (six categories) statistics
+Favoured: ,594,(95.345%)
+Allowed: ,16,(2.568%)
+Disallowed: ,13,(2.087%)
+Disallowed Residues
+SN.,PDB ID,Chain,Residue,Residue No,PHI,PSI
+1. ,foldkarsnp0011235611wildtype29082026model0,A,LEU,2,56.92,127.16
+2. ,foldkarsnp0011235611wildtype29082026model0,A,GLN,4,-39.39,153.81
+3. ,foldkarsnp0011235611wildtype29082026model0,A,ALA,6,98.28,117.27
+4. ,foldkarsnp0011235611wildtype29082026model0,A,GLU,21,174.48,84.28
+5. ,foldkarsnp0011235611wildtype29082026model0,A,HIS,24,88.03,93.58
+6. ,foldkarsnp0011235611wildtype29082026model0,A,GLN,31,73.79,119.14
+7. ,foldkarsnp0011235611wildtype29082026model0,A,THR,88,166.53,-2.2
+8. ,foldkarsnp0011235611wildtype29082026model0,A,LYS,607,-57.2,96.88
+9. ,foldkarsnp0011235611wildtype29082026model0,A,ASN,609,-63.27,85.14
+10. ,foldkarsnp0011235611wildtype29082026model0,A,VAL,610,-62.48,91.02
+11. ,foldkarsnp0011235611wildtype29082026model0,A,THR,612,-55.83,94.13
+12. ,foldkarsnp0011235611wildtype29082026model0,A,ASP,614,-58.96,95.16
+13. ,foldkarsnp0011235611wildtype29082026model0,A,SER,624,38.01,119.36
+Ramachandran plot (Seven categories) statistics
+Favoured: ,594,(95.345%)
+Allowed: ,18,(2.568%)
+Disallowed: ,11,(2.087%)
+Disallowed Residues
+SN.,PDB ID,Chain,Residue,Residue No,PHI,PSI
+1. ,foldkarsnp0011235611wildtype29082026model0,A,LEU,2,56.92,127.16
+2. ,foldkarsnp0011235611wildtype29082026model0,A,GLN,4,-39.39,153.81
+3. ,foldkarsnp0011235611wildtype29082026model0,A,ALA,6,98.28,117.27
+4. ,foldkarsnp0011235611wildtype29082026model0,A,GLU,21,174.48,84.28
+5. ,foldkarsnp0011235611wildtype29082026model0,A,HIS,24,88.03,93.58
+6. ,foldkarsnp0011235611wildtype29082026model0,A,GLN,31,73.79,119.14
+7. ,foldkarsnp0011235611wildtype29082026model0,A,THR,88,166.53,-2.2
+8. ,foldkarsnp0011235611wildtype29082026model0,A,LYS,607,-57.2,96.88
+9. ,foldkarsnp0011235611wildtype29082026model0,A,VAL,610,-62.48,91.02
+10. ,foldkarsnp0011235611wildtype29082026model0,A,THR,612,-55.83,94.13
+11. ,foldkarsnp0011235611wildtype29082026model0,A,SER,624,38.01,119.36
